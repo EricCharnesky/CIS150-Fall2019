@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="RandomWord.h" />
+    <ClInclude Include="Source.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
